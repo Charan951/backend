@@ -7,6 +7,7 @@ const port = process.env.port;
 
 // Load environment variables
 dotenv.config();
+//hello
 
 // Connect to MongoDB
 connectDB();
