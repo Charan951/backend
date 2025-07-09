@@ -16,6 +16,7 @@ connectDB();
 app.use(express.json()); // or app.use(express.json())
 
 // Routes
+//hi
 
 
 // Example middleware
